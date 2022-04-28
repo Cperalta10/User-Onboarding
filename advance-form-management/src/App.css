@@ -1,0 +1,24 @@
+.error {
+  color: red;
+}
+
+.App {
+  text-align: center;
+}
+
+form {
+  margin: 2rem;
+}
+
+.users {
+  border: 1px solid black;
+  margin: 2rem;
+}
+
+label {
+  margin: 0.5rem;
+}
+
+input {
+  margin: 0.2rem;
+}
